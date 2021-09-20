@@ -1,4 +1,4 @@
-<img height="50" src="./assets/logo-with-label.svg" alt="Discord Factory logo" />
+<img height="50" src="../assets/logo-with-label.svg" alt="Discord Factory logo" />
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -6,8 +6,9 @@
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 
-![Discord factory banner](./assets/banner-rounded.svg)
+![Discord factory banner](../assets/banner-rounded.svg)
 
 Don't waste time reinventing the wheel when designing your discord bots.
 
@@ -35,6 +36,11 @@ In addition, you will benefit from modules dedicated to the framework that simpl
 > The `Discord Factory` framework offers ready-to-use modules to simplify your development
 > such as [storage-next](https://github.com/DiscordFactory/storage-next) which allows you to interact
 > with a SQLite3 database to persist data from your application.
+
+## Supported OS
+![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## See more
 
