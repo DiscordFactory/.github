@@ -251,3 +251,7 @@ Make error container
 ::: success
 Make success container
 :::
+
+::: info
+Make info container
+:::
