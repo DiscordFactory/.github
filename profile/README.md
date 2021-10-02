@@ -1,4 +1,4 @@
-<img height="50" src="./assets/logo-with-label.svg" alt="Discord Factory logo" />
+<img height="50" src="https://raw.githubusercontent.com/DiscordFactory/.github/main/assets/logo-with-label.svg" alt="Discord Factory logo" />
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -8,7 +8,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 
-![Discord factory banner](./assets/banner-rounded.svg)
+![Discord factory banner](https://raw.githubusercontent.com/DiscordFactory/.github/main/assets/banner-rounded.svg)
 
 Don't waste time reinventing the wheel when designing your discord bots.
 
