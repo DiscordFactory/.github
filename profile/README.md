@@ -12,7 +12,7 @@
 
 Don't waste time reinventing the wheel when designing your discord bots.
 
-`Discord Factory` is the first [Typescript](https://www.typescriptlang.org) framework designed to quickly and easily create a clean, maintainable, standards-compliant application.
+Discord Factory is the first [Typescript](https://www.typescriptlang.org) framework designed to quickly and easily create a clean, maintainable, standards-compliant application.
 
 In addition, you will benefit from modules dedicated to the framework that simplify the use of databases, command creation or events.
 
