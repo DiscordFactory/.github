@@ -37,6 +37,9 @@ In addition, you will benefit from modules dedicated to the framework that simpl
 > such as [storage-next](https://github.com/DiscordFactory/storage-next) which allows you to interact
 > with a SQLite3 database to persist data from your application.
 
+## Sponsors
+<a href="https://github.com/AzarowDev"><img src="https://avatars.githubusercontent.com/u/61085504" width="64px"></a>
+
 ## Supported OS
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white)
